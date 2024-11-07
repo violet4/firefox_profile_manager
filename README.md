@@ -13,7 +13,6 @@ A modern, feature-rich profile management solution for Mozilla Firefox, designed
 
 * **Profile Templates**: Easily create and manage custom profiles for specific use cases (e.g., nature, software development, gaming)
 * **Bookmark Organization**: Segregated bookmark management across profiles, allowing for tailored browsing experiences
-* **URL Filtering**: Fine-grained control over website visibility and tracking across profiles, promoting enhanced online privacy
 * **Profile Customization**: Flexible profile settings for renaming, rearranging, and optimizing profile hierarchies
 * **Syncing**: Automatic syncing with Firefox profiles.ini and profile folders for seamless profile management
 
